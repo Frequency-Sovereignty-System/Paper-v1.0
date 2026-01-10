@@ -1,6 +1,5 @@
 cff-version: 1.2.0
 title: "Judgment Before Momentum: A Provenance-First Publication Pattern for Human-Authored Research in High-Replication Environments"
-message: "If you use this work, please cite the canonical release repository."
 type: manuscript
 
 authors:
@@ -24,4 +23,5 @@ keywords:
   - ENS
   - IPFS CID
   - version governance
+
 
