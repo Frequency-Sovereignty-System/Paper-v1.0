@@ -1,13 +1,12 @@
 cff-version: 1.2.0
 title: "Judgment Before Momentum: A Provenance-First Publication Pattern for Human-Authored Research in High-Replication Environments"
+message: "If you use this work, please cite the canonical release repository. Author: Xufen Tu. Attribution anchor (ENS): tux133144.eth. Note: this repository is a canonical release source (non-personal); authorship is stated for citation integrity only."
 type: manuscript
 
 authors:
   - family-names: "Tu"
     given-names: "Xufen"
     name: "Xufen Tu"
-message: "If you use this work, please cite the canonical release repository. Author: Xufen Tu. Note: this repository is a non-personal canonical source; identity attribution is anchored via ENS: tux133144.eth."
-
 
 version: "v1.0"
 date-released: "2026-01-10"
@@ -20,8 +19,13 @@ keywords:
   - authorship continuity
   - citation integrity
   - preprints
+  - persistent identifiers
+  - content addressing
   - ENS
   - IPFS CID
   - version governance
+  - replication environments
+  - judgment thresholds
+
 
 
