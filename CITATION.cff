@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Judgment Before Momentum: A Provenance-First Publication Pattern for Human-Authored Research in High-Replication Environments"
+message: "If you use this work, please cite the canonical release repository."
+type: manuscript
+
+authors:
+  - name: "ENS attribution anchor: tux133144.eth"
+
+version: "v1.0"
+date-released: "2026-01-10"
+
+repository-code: "https://github.com/Frequency-Sovereignty-System/Paper-v1.0"
+url: "https://github.com/Frequency-Sovereignty-System/Paper-v1.0"
+
+keywords:
+  - provenance
+  - authorship continuity
+  - citation integrity
+  - preprints
+  - ENS
+  - IPFS CID
+  - version governance
