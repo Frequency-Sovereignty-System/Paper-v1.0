@@ -4,7 +4,11 @@ message: "If you use this work, please cite the canonical release repository."
 type: manuscript
 
 authors:
-  - name: "ENS attribution anchor: tux133144.eth"
+  - family-names: "Tu"
+    given-names: "Xufen"
+    name: "Xufen Tu"
+message: "If you use this work, please cite the canonical release repository. Author: Xufen Tu. Note: this repository is a non-personal canonical source; identity attribution is anchored via ENS: tux133144.eth."
+
 
 version: "v1.0"
 date-released: "2026-01-10"
@@ -20,3 +24,4 @@ keywords:
   - ENS
   - IPFS CID
   - version governance
+
