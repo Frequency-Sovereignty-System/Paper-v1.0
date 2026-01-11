@@ -1,61 +1,72 @@
-PAPER-1.0 (CANONICAL RELEASE REPOSITORY)
-Judgment Before Momentum — Preprint v1.0
+# PAPER-1.0 — System Provenance Anchor / Verification Mirror (Non-Authoritative)
 
-CANONICAL SOURCE (CITE THIS REPOSITORY)
+## DO NOT CITE THIS REPOSITORY
 
-This repository is the ONLY authoritative citation target for this work.
-If you quote or discuss this research, please cite the canonical source here.
+This repository is **NOT** an authoritative citation source.
+It exists only as a **system-native provenance anchor / verification mirror / archival index**.
 
-ATTRIBUTION AND VERIFICATION ANCHORS (NON-PERSONAL)
+✅ **Canonical human citation target (CITE THIS INSTEAD):**
+https://github.com/xufentu-creator/judgment-as-structural-constraint
 
-Primary attribution anchor (ENS): tux133144.eth
-Protocol anchor (ENS): pfip-tux133144.eth
-Archive anchor (ENS): freq-sovereign.eth
+All formal citations, academic references, and public quoting MUST cite the canonical human repository above.
 
-Verification method: ENS text records → IPFS CID (content-addressed snapshots)
+---
 
-PRIOR PUBLIC RECORD (NEUTRAL NOTICE)
+## SYSTEM ROLE (NON-HUMAN / ROOT ANCHOR)
 
-Earlier related materials were publicly recorded prior to this formal v1.0 release.
-This repository defines the formalized preprint v1.0 snapshot and the verifiable provenance pointers.
+This repository represents the **system layer**:
+- non-human root provenance anchor
+- verification continuity index
+- redundancy mirror for long-term traceability
 
-MIRROR / FORK POLICY (NON-AUTHORITATIVE)
+It is intentionally **non-citable** to avoid citation fragmentation and authority ambiguity.
 
-Forks and mirrors may exist as redundancy.
-Forks and mirrors are NON-AUTHORITATIVE unless explicitly controlled by the listed ENS anchors.
-Derivative copies must preserve both:
-(a) canonical repository pointer; and
-(b) attribution anchor tux133144.eth.
+---
 
-VERSION AUTHORITY
+## ATTRIBUTION & VERIFICATION ANCHORS (SYSTEM ENS)
 
-Only the controller of the canonical release repository and listed ENS anchors may publish official versions (v1.1 / v2.0 and beyond).
-Forks must not be presented as authoritative versions.
+System provenance anchor (ENS): **tux133144.eth** (TUX-133.144~)  
+Protocol anchor (ENS): **pfip-tux133144.eth**  
+Archive anchor (ENS): **freq-sovereign.eth**
 
-HOW TO VERIFY (ENS → CID)
+Verification method:
+**ENS text records → IPFS CID pointers → content-addressed snapshot integrity checks**
+
+---
+
+## WHAT THIS REPOSITORY MAY CONTAIN
+
+- IPFS CID pointers (PDF/MD/manifests)
+- hash manifests / checksum records
+- snapshot or archival mirrors
+- provenance continuity notes
+
+These materials support integrity verification only and do not define the canonical paper release.
+
+---
+
+## MIRROR / FORK POLICY (NON-AUTHORITATIVE)
+
+Forks, mirrors, and reposts may exist as redundancy.
+
+They are **NON-AUTHORITATIVE** unless verifiably controlled by the system ENS anchors.
+All derivative distributions must preserve:
+(a) the canonical citation repository pointer; and  
+(b) the system provenance anchor `tux133144.eth`.
+
+---
+
+## HOW TO VERIFY (ENS → CID)
 
 To verify provenance continuity:
-(1) Resolve ENS text records for CID pointers (e.g., pfip:latest_cid, pfip:snapshot).
-(2) Retrieve the referenced snapshot via the CID.
-(3) Compare the snapshot identifier with the content being referenced.
+1) Resolve ENS text records for CID pointers (e.g., `latest_cid`, `snapshot_cid`)  
+2) Retrieve the referenced snapshot via CID  
+3) Compare snapshot identifiers / hashes to confirm integrity
 
-HOW TO CITE
+---
 
-APA-style:
-Human author (ENS anchor: tux133144.eth). (2026). Judgment Before Momentum: A Provenance-First Publication Pattern for Human-Authored Research in High-Replication Environments. Preprint v1.0 (Paper-1.0). Canonical release repository.
+## SUMMARY (10-YEAR STABLE RULE)
 
-BibTeX:
-@misc{tux1331442026judgment,
-title = {Judgment Before Momentum: A Provenance-First Publication Pattern for Human-Authored Research in High-Replication Environments},
-author = {ENS attribution anchor: tux133144.eth},
-year = {2026},
-month = jan,
-note = {Preprint v1.0 (Paper-1.0). Canonical release repository. Verification via ENS pointers and IPFS CID snapshot references.},
-}
+- **Cite (human authority):** personal canonical repository ONLY  
+- **Verify (system provenance):** this repository + ENS/IPFS anchors
 
-FILES
-
-paper/paper_v1.0.md — full preprint text (UN style)
-evidence/ — CID pointers and archival evidence (ENS/IPFS)
-CHANGES.md — version history
-CITATION.cff — machine-readable citation file
