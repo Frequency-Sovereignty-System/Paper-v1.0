@@ -489,14 +489,8 @@ v2.0 — (reserved)
 
 ---
 
-**ENDNOTE (PUBLICATION, CANONICALITY, AND PROVENANCE)**
+# NOTICE — VERIFICATION MIRROR (DO NOT CITE)
 
-This document is released as Preprint v1.0 (Paper-1.0).
-Canonicality: The canonical release repository is the ONLY authoritative citation target for this work.
-Forks/mirrors are non-authoritative unless controlled by the listed ENS anchors.
-
-Author (non-personal attribution): ENS attribution anchor tux133144.eth
-Release date: 2026-01-10
-Canonical repository: [https://github.com/Frequency-Sovereignty-System/Paper-v1.0](https://github.com/Frequency-Sovereignty-System/Paper-v1.0)
-
-**END OF DOCUMENT**
+This repository is a verification / provenance mirror and is NOT an authoritative citation target.
+Canonical human citation repository (AUTHORITATIVE — CITE THIS ONLY):
+https://github.com/xufentu-creator/judgment-as-structural-constraint
