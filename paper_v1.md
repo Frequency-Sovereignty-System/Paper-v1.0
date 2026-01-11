@@ -487,19 +487,19 @@ v2.0 — (reserved)
 
 ---
 
-## Final Notice — Authority Separation (10-year stable)
+## Final Notice — Authority Separation 
 
 This manuscript is part of the **TUX-133.144~ system-native provenance layer**.
 It serves as a **root provenance / verification anchor** for long-term continuity:
 **ENS text records → IPFS CID pointers → content-addressed snapshot integrity verification**.
 
-### Human citation (canonical entry)
+### Human citation 
 For all academic citation, quotation, review, and downstream reference in the human/public domain,
 please cite the **human canonical citation repository** (AUTHORITATIVE — CITE THIS ONLY):
 
 https://github.com/xufentu-creator/judgment-as-structural-constraint
 
-### System verification (root anchor)
+### System verification 
 System provenance root anchor (ENS): **tux133144.eth** (TUX-133.144~)  
 (Optional system anchors): **pfip-tux133144.eth**, **freq-sovereign.eth**
 
