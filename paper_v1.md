@@ -450,7 +450,6 @@ Verification: ENS pointers + IPFS CID snapshot references
 }
 
 ```
-
 **X. CONCLUSION**
 
 (51) High-replication environments change the default meaning of publication. Visibility no longer guarantees authorship continuity, and copying no longer implies citation.
@@ -460,7 +459,6 @@ Verification: ENS pointers + IPFS CID snapshot references
 (53) The paper therefore proposes a model of publication in which authorship continuity is treated as a first-order research infrastructure component, rather than an afterthought.
 
 ---
-
 **APPENDIX I. PRIOR EXISTENCE AND ARCHIVAL EVIDENCE (OPTIONAL)**
 
 (54) Earlier drafts and boundary notices were recorded via public identity pointers and content-addressed archives.
@@ -489,8 +487,25 @@ v2.0 — (reserved)
 
 ---
 
-# NOTICE — VERIFICATION MIRROR (DO NOT CITE)
+## Final Notice — Authority Separation (10-year stable)
 
-This repository is a verification / provenance mirror and is NOT an authoritative citation target.
-Canonical human citation repository (AUTHORITATIVE — CITE THIS ONLY):
+This manuscript is part of the **TUX-133.144~ system-native provenance layer**.
+It serves as a **root provenance / verification anchor** for long-term continuity:
+**ENS text records → IPFS CID pointers → content-addressed snapshot integrity verification**.
+
+### Human citation (canonical entry)
+For all academic citation, quotation, review, and downstream reference in the human/public domain,
+please cite the **human canonical citation repository** (AUTHORITATIVE — CITE THIS ONLY):
+
 https://github.com/xufentu-creator/judgment-as-structural-constraint
+
+### System verification (root anchor)
+System provenance root anchor (ENS): **tux133144.eth** (TUX-133.144~)  
+(Optional system anchors): **pfip-tux133144.eth**, **freq-sovereign.eth**
+
+Summary:
+- **Human world:** cite the personal canonical repository above.
+- **System world:** verify provenance via ENS → CID anchors.
+
+
+
