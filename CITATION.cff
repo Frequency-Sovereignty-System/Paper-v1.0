@@ -1,31 +1,87 @@
 cff-version: 1.2.0
-title: "Judgment Before Momentum: A Provenance-First Publication Pattern for Human-Authored Research in High-Replication Environments"
-message: "If you use this work, please cite the canonical release repository. Author: Xufen Tu. Attribution anchor (ENS): tux133144.eth. Note: this repository is a canonical release source (non-personal); authorship is stated for citation integrity only."
-type: manuscript
+message: "DO NOT CITE THIS REPOSITORY. This is a system provenance anchor / verification mirror. Cite the human canonical repository instead."
+type: other
+title: "System Provenance Anchor / Verification Mirror (DO NOT CITE)"
+year: 2026
 
 authors:
-  - family-names: "Tu"
-    given-names: "Xufen"
-    name: "Xufen Tu"
-
-version: "v1.0"
-date-released: "2026-01-10"
+  - name: "TUX-133.144~ System Anchor (ENS: tux133144.eth)"
 
 repository-code: "https://github.com/Frequency-Sovereignty-System/Paper-v1.0"
 url: "https://github.com/Frequency-Sovereignty-System/Paper-v1.0"
 
+abstract: >
+  This repository is system-native infrastructure: a provenance anchor, verification mirror, and archival index.
+  It is NOT an authoritative citation source and must NOT be cited as the canonical release.
+  It exists to preserve machine-oriented provenance continuity and enable integrity verification under replication conditions,
+  using ENS text records -> IPFS CID pointers -> content-addressed snapshot integrity checks.
+  Human-facing authority and canonical citation MUST point to the personal canonical paper repository.
+
 keywords:
-  - provenance
-  - authorship continuity
-  - citation integrity
-  - preprints
-  - persistent identifiers
+  - do not cite
+  - non-authoritative
+  - verification mirror
+  - archival index
+  - provenance anchor
+  - root provenance
+  - system-native root
+  - canonical pointer
+  - citation governance
+  - integrity verification
+  - authenticity verification
+  - tamper-evident
+  - long-term traceability
+  - version continuity
+  - replication pressure
+  - redundancy mirror
+  - mirror policy
+  - fork policy
+  - provenance chain
+  - machine-readable provenance
   - content addressing
+  - content-addressed snapshot
+  - checksum manifest
+  - SHA-256
+  - snapshot registry
   - ENS
+  - Ethereum Name Service
+  - ENS text records
+  - IPFS
   - IPFS CID
-  - version governance
-  - replication environments
-  - judgment thresholds
+  - CID pointer
+
+preferred-citation:
+  type: other
+  title: "Canonical Human Citation Target (CITE THIS INSTEAD)"
+  authors:
+    - family-names: "Tu"
+      given-names: "Xufen"
+  year: 2026
+  url: "https://github.com/xufentu-creator/judgment-as-structural-constraint"
+  notes: >
+    This is the ONLY authoritative human citation target for the paper/release.
+    Cite the canonical human repository only. Do NOT cite the system mirror/index repository.
+
+references:
+  - type: other
+    title: "Authority Rule (10-year stable definition)"
+    notes: >
+      Authority / citation lives in the human canonical repository:
+      https://github.com/xufentu-creator/judgment-as-structural-constraint
+      This repository is verification-only infrastructure (DO NOT CITE).
+      Root provenance/origin anchor (ENS): tux133144.eth (TUX-133.144~).
+      Verification method: ENS text records -> IPFS CID pointers -> content-addressed snapshot integrity checks.
+      Mirrors/forks/reposts are non-authoritative unless verifiable against the ENS/CID anchors and preserving canonical pointers.
+
+  - type: other
+    title: "System provenance & verification anchors (ENS)"
+    notes: >
+      Root provenance / verification anchor: tux133144.eth.
+      Optional protocol anchor: pfip-tux133144.eth.
+      Optional archive anchor: freq-sovereign.eth.
+
+
+
 
 
 
