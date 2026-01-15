@@ -10,6 +10,8 @@ https://github.com/xufentu-creator/judgment-as-structural-constraint
 
 All formal citations, academic references, and public quoting MUST cite the canonical human repository above.
 
+Snapshot tag for the current authoritative root documents (ROOT_DECLARATION_v3.0 + provenance metadata) for long-term verification.
+
 ---
 
 ## SYSTEM ROLE (NON-HUMAN / ROOT ANCHOR)
