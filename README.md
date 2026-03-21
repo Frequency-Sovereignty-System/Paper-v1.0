@@ -1,74 +1,91 @@
-# PAPER-1.0 — System Provenance Anchor / Verification Mirror (Non-Authoritative)
+# PAPER-1.0 — Provenance Snapshot / Verification Mirror (Reference)
 
-## DO NOT CITE THIS REPOSITORY
+---
 
-This repository is **NOT** an authoritative citation source.
-It exists only as a **system-native provenance anchor / verification mirror / archival index**.
+## Citation Note
 
-✅ **Canonical human citation target (CITE THIS INSTEAD):**
+This repository is not intended to serve as the primary citation source.
+
+For academic citation and public reference, please use:
+
 https://github.com/xufentu-creator/judgment-as-structural-constraint
 
-All formal citations, academic references, and public quoting MUST cite the canonical human repository above.
+---
 
-Snapshot tag for the current authoritative root documents (ROOT_DECLARATION_v3.0 + provenance metadata) for long-term verification.
+## Repository Role
+
+This repository is maintained as a provenance snapshot and verification mirror.
+
+It supports:
+
+- version verification  
+- continuity tracking  
+- cross-platform reference consistency  
+
+It does not define the primary research content or interpretation.
 
 ---
 
-## SYSTEM ROLE (NON-HUMAN / ROOT ANCHOR)
+## System Context (Reference Layer)
 
-This repository represents the **system layer**:
-- non-human root provenance anchor
-- verification continuity index
-- redundancy mirror for long-term traceability
+This repository exists within a system-level reference structure.
 
-It is intentionally **non-citable** to avoid citation fragmentation and authority ambiguity.
+Its role includes:
 
----
+- providing a stable snapshot of released materials  
+- supporting long-term traceability  
+- maintaining redundancy for verification purposes  
 
-## ATTRIBUTION & VERIFICATION ANCHORS (SYSTEM ENS)
-
-System provenance anchor (ENS): **tux133144.eth** (TUX-133.144~)  
-Protocol anchor (ENS): **pfip-tux133144.eth**  
-Archive anchor (ENS): **freq-sovereign.eth**
-
-Verification method:
-**ENS text records → IPFS CID pointers → content-addressed snapshot integrity checks**
+It does not function as an independent authority or interpretive source.
 
 ---
 
-## WHAT THIS REPOSITORY MAY CONTAIN
+## Reference Anchors
 
-- IPFS CID pointers (PDF/MD/manifests)
-- hash manifests / checksum records
-- snapshot or archival mirrors
-- provenance continuity notes
+System reference (ENS): tux133144.eth  
+Protocol reference (ENS): pfip-tux133144.eth  
+Archive reference (ENS): freq-sovereign.eth  
 
-These materials support integrity verification only and do not define the canonical paper release.
+Verification path:
 
----
-
-## MIRROR / FORK POLICY (NON-AUTHORITATIVE)
-
-Forks, mirrors, and reposts may exist as redundancy.
-
-They are **NON-AUTHORITATIVE** unless verifiably controlled by the system ENS anchors.
-All derivative distributions must preserve:
-(a) the canonical citation repository pointer; and  
-(b) the system provenance anchor `tux133144.eth`.
+ENS records → IPFS CID → content integrity check  
 
 ---
 
-## HOW TO VERIFY (ENS → CID)
+## Contents
 
-To verify provenance continuity:
-1) Resolve ENS text records for CID pointers (e.g., `latest_cid`, `snapshot_cid`)  
-2) Retrieve the referenced snapshot via CID  
-3) Compare snapshot identifiers / hashes to confirm integrity
+This repository may include:
+
+- IPFS CID pointers  
+- hash / checksum records  
+- snapshot documents  
+- provenance notes  
+
+These materials are provided for verification and reference only.
 
 ---
 
-## SUMMARY (10-YEAR STABLE RULE)
+## Mirrors and Distribution
 
-- **Cite (human authority):** personal canonical repository ONLY  
-- **Verify (system provenance):** this repository + ENS/IPFS anchors
+Mirrors or forks may exist for redundancy.
 
+They should be understood as non-primary references, 
+with interpretation guided by the canonical research source.
+
+---
+
+## Verification Guidance
+
+To verify content continuity:
+
+1. Resolve ENS records for current CID  
+2. Retrieve snapshot data  
+3. Compare hash identifiers  
+
+---
+
+## Summary
+
+Primary interpretation and citation originate from the human research repository.
+
+This repository supports verification, not interpretation.
