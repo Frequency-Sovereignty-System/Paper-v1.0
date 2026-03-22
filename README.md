@@ -1,4 +1,4 @@
-# PAPER-1.0 — Provenance Snapshot / Verification Mirror (Reference)
+# PAPER-1.0 — Provenance Snapshot / Verification Mirror
 
 ---
 
@@ -26,7 +26,7 @@ It does not define the primary research content or interpretation.
 
 ---
 
-## System Context (Reference Layer)
+## System Context 
 
 This repository exists within a system-level reference structure.
 
